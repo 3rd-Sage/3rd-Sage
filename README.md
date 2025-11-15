@@ -59,6 +59,8 @@
 <p align="left">Dynamic Data Analyst with experience in performance and business intelligence analysis. Proficient in SQL, Power BI, and data analysis, successfully designed interactive dashboards that improved operational efficiency and supported strategic decision-making. Recognized for identifying data-driven solutions that enhanced productivity and efficiency in banking operations. Eager to leverage analytical skills and expertise to drive insightful business outcomes and facilitate data informed strategies.</p>
 
 ###
+          
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3rd-Sage/3rd-Sage/output/pacman-contribution-graph-dark.svg">
@@ -68,7 +70,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/3rd-Sage/3rd-Sage/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
