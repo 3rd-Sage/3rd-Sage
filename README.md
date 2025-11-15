@@ -42,26 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=3rd-Sage.3rd-Sage&left_color=lightsalmon&right_color=sienna"  />
-</div>
-
-###
-###
-
-<br clear="both">
-
+<img align="left" style = "padding: 30px" src="https://visitor-badge.laobi.icu/badge?page_id=3rd-Sage.3rd-Sage&left_color=lightsalmon&right_color=sienna"  />
 <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
 
 <p align="left">Dynamic Data Analyst with experience in performance and business intelligence analysis. Proficient in SQL, Power BI, and data analysis, successfully designed interactive dashboards that improved operational efficiency and supported strategic decision-making. Recognized for identifying data-driven solutions that enhanced productivity and efficiency in banking operations. Eager to leverage analytical skills and expertise to drive insightful business outcomes and facilitate data informed strategies.</p>
 
