@@ -42,8 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
 </div>
 
-<img align="left" style = "padding: 30px" src="https://visitor-badge.laobi.icu/badge?page_id=3rd-Sage.3rd-Sage&left_color=lightsalmon&right_color=sienna"  />
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <br clear="both">
 
